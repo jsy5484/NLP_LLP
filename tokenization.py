@@ -1,3 +1,6 @@
+
+# Define a class for a tokenization
+
 class SimpleTokenizer:
    # initialization 
     def __init__(self):
@@ -23,8 +26,8 @@ class SimpleTokenizer:
 
     
 tokenizer = SimpleTokenizer()
-senten = ["hello world", "find the most closest cafe near me", "give me the address"]
-tokenizer.build_vocab(senten)
+input_sen = ["hello world", "find the most closest cafe near me", "give me the address"]
+tokenizer.build_vocab(input_sen)
 
 encoded = tokenizer.encode("closest cafe")
 
