@@ -13,7 +13,7 @@ CBOW algorithm predicts the center word for a given set of context words within 
 
 For this exercise, the size of the sliding window is set to be 2. Given the size of the sliding window, one-hot vector will be generated as in the description below.
 
-- My in read dog sleeps all day on his cozy futon
+<code style = "color : red">My</code> in read dog sleeps all day on his cozy futon
 My dog sleeps all day on his cozy futon
 My dog sleeps all day on his cozy futon
 My dog sleeps all day on his cozy futon
