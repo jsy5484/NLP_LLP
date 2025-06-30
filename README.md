@@ -1,4 +1,4 @@
-# This repository is for Python LLM tutoring provided by Shawn Jeong in 2025 Summer 
+# This repository is for Python NLP_LLM tutoring provided by Shawn Jeong in 2025 Summer 
 
 ## A Description of LLM Algorithm
 
