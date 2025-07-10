@@ -1,4 +1,11 @@
-# This repository is for Python NLP_LLM tutoring provided by Shawn Jeong in 2025 Summer 
+# Natural Language Processing Algorithm (NLP)
+
+This repository is for Python NLP tutoring offered by Shawn Jeong
+
+## Aurthor
+Shawn Jeong
+
+
 
 ## A Description of LLM Algorithm
 
